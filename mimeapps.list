@@ -1,0 +1,6 @@
+[Default Applications]
+
+text/plain=vim.desktop
+text/markdown=vim.desktop
+text/html=vim.desktop
+
